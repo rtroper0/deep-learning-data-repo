@@ -1,0 +1,89 @@
+volume_id,volume_name,volume_title,book_id,book_name,book_url
+ot,Old Testament,The Old Testament,gen,Genesis,https://www.lds.org/scriptures/ot/gen
+ot,Old Testament,The Old Testament,ex,Exodus,https://www.lds.org/scriptures/ot/ex
+ot,Old Testament,The Old Testament,lev,Leviticus,https://www.lds.org/scriptures/ot/lev
+ot,Old Testament,The Old Testament,num,Numbers,https://www.lds.org/scriptures/ot/num
+ot,Old Testament,The Old Testament,deut,Deuteronomy,https://www.lds.org/scriptures/ot/deut
+ot,Old Testament,The Old Testament,josh,Joshua,https://www.lds.org/scriptures/ot/josh
+ot,Old Testament,The Old Testament,judg,Judges,https://www.lds.org/scriptures/ot/judg
+ot,Old Testament,The Old Testament,ruth,Ruth,https://www.lds.org/scriptures/ot/ruth
+ot,Old Testament,The Old Testament,1-sam,1 Samuel,https://www.lds.org/scriptures/ot/1-sam
+ot,Old Testament,The Old Testament,2-sam,2 Samuel,https://www.lds.org/scriptures/ot/2-sam
+ot,Old Testament,The Old Testament,1-kgs,1 Kings,https://www.lds.org/scriptures/ot/1-kgs
+ot,Old Testament,The Old Testament,2-kgs,2 Kings,https://www.lds.org/scriptures/ot/2-kgs
+ot,Old Testament,The Old Testament,1-chr,1 Chronicles,https://www.lds.org/scriptures/ot/1-chr
+ot,Old Testament,The Old Testament,2-chr,2 Chronicles,https://www.lds.org/scriptures/ot/2-chr
+ot,Old Testament,The Old Testament,ezra,Ezra,https://www.lds.org/scriptures/ot/ezra
+ot,Old Testament,The Old Testament,neh,Nehemiah,https://www.lds.org/scriptures/ot/neh
+ot,Old Testament,The Old Testament,esth,Esther,https://www.lds.org/scriptures/ot/esth
+ot,Old Testament,The Old Testament,job,Job,https://www.lds.org/scriptures/ot/job
+ot,Old Testament,The Old Testament,ps,Psalms,https://www.lds.org/scriptures/ot/ps
+ot,Old Testament,The Old Testament,prov,Proverbs,https://www.lds.org/scriptures/ot/prov
+ot,Old Testament,The Old Testament,eccl,Ecclesiastes,https://www.lds.org/scriptures/ot/eccl
+ot,Old Testament,The Old Testament,song,Song of Solomon,https://www.lds.org/scriptures/ot/song
+ot,Old Testament,The Old Testament,isa,Isaiah,https://www.lds.org/scriptures/ot/isa
+ot,Old Testament,The Old Testament,jer,Jeremiah,https://www.lds.org/scriptures/ot/jer
+ot,Old Testament,The Old Testament,lam,Lamentations,https://www.lds.org/scriptures/ot/lam
+ot,Old Testament,The Old Testament,ezek,Ezekiel,https://www.lds.org/scriptures/ot/ezek
+ot,Old Testament,The Old Testament,dan,Daniel,https://www.lds.org/scriptures/ot/dan
+ot,Old Testament,The Old Testament,hosea,Hosea,https://www.lds.org/scriptures/ot/hosea
+ot,Old Testament,The Old Testament,joel,Joel,https://www.lds.org/scriptures/ot/joel
+ot,Old Testament,The Old Testament,amos,Amos,https://www.lds.org/scriptures/ot/amos
+ot,Old Testament,The Old Testament,obad,Obadiah,https://www.lds.org/scriptures/ot/obad
+ot,Old Testament,The Old Testament,jonah,Jonah,https://www.lds.org/scriptures/ot/jonah
+ot,Old Testament,The Old Testament,micah,Micah,https://www.lds.org/scriptures/ot/micah
+ot,Old Testament,The Old Testament,nahum,Nahum,https://www.lds.org/scriptures/ot/nahum
+ot,Old Testament,The Old Testament,hab,Habakkuk,https://www.lds.org/scriptures/ot/hab
+ot,Old Testament,The Old Testament,zeph,Zephaniah,https://www.lds.org/scriptures/ot/zeph
+ot,Old Testament,The Old Testament,hag,Haggai,https://www.lds.org/scriptures/ot/hag
+ot,Old Testament,The Old Testament,zech,Zechariah,https://www.lds.org/scriptures/ot/zech
+ot,Old Testament,The Old Testament,mal,Malachi,https://www.lds.org/scriptures/ot/mal
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,matt,Matthew,https://www.lds.org/scriptures/nt/matt
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,mark,Mark,https://www.lds.org/scriptures/nt/mark
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,luke,Luke,https://www.lds.org/scriptures/nt/luke
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,john,John,https://www.lds.org/scriptures/nt/john
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,acts,Acts,https://www.lds.org/scriptures/nt/acts
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,rom,Romans,https://www.lds.org/scriptures/nt/rom
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,1-cor,1 Corinthians,https://www.lds.org/scriptures/nt/1-cor
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,2-cor,2 Corinthians,https://www.lds.org/scriptures/nt/2-cor
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,gal,Galatians,https://www.lds.org/scriptures/nt/gal
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,eph,Ephesians,https://www.lds.org/scriptures/nt/eph
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,philip,Philippians,https://www.lds.org/scriptures/nt/philip
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,col,Colossians,https://www.lds.org/scriptures/nt/col
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,1-thes,1 Thessalonians,https://www.lds.org/scriptures/nt/1-thes
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,2-thes,2 Thessalonians,https://www.lds.org/scriptures/nt/2-thes
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,1-tim,1 Timothy,https://www.lds.org/scriptures/nt/1-tim
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,2-tim,2 Timothy,https://www.lds.org/scriptures/nt/2-tim
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,titus,Titus,https://www.lds.org/scriptures/nt/titus
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,philem,Philemon,https://www.lds.org/scriptures/nt/philem
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,heb,Hebrews,https://www.lds.org/scriptures/nt/heb
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,james,James,https://www.lds.org/scriptures/nt/james
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,1-pet,1 Peter,https://www.lds.org/scriptures/nt/1-pet
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,2-pet,2 Peter,https://www.lds.org/scriptures/nt/2-pet
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,1-jn,1 John,https://www.lds.org/scriptures/nt/1-jn
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,2-jn,2 John,https://www.lds.org/scriptures/nt/2-jn
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,3-jn,3 John,https://www.lds.org/scriptures/nt/3-jn
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,jude,Jude,https://www.lds.org/scriptures/nt/jude
+nt,New Testament,The New Testament of Our Lord and Saviour Jesus Christ,rev,Revelation,https://www.lds.org/scriptures/nt/rev
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,1-ne,1 Nephi,https://www.lds.org/scriptures/bofm/1-ne
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,2-ne,2 Nephi,https://www.lds.org/scriptures/bofm/2-ne
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,jacob,Jacob,https://www.lds.org/scriptures/bofm/jacob
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,enos,Enos,https://www.lds.org/scriptures/bofm/enos
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,jarom,Jarom,https://www.lds.org/scriptures/bofm/jarom
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,omni,Omni,https://www.lds.org/scriptures/bofm/omni
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,w-of-m,Words of Mormon,https://www.lds.org/scriptures/bofm/w-of-m
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,mosiah,Mosiah,https://www.lds.org/scriptures/bofm/mosiah
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,alma,Alma,https://www.lds.org/scriptures/bofm/alma
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,hel,Helaman,https://www.lds.org/scriptures/bofm/hel
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,3-ne,3 Nephi,https://www.lds.org/scriptures/bofm/3-ne
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,4-ne,4 Nephi,https://www.lds.org/scriptures/bofm/4-ne
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,morm,Mormon,https://www.lds.org/scriptures/bofm/morm
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,ether,Ether,https://www.lds.org/scriptures/bofm/ether
+bofm,Book of Mormon,The Book of Mormon Another Testament of Jesus Christ,moro,Moroni,https://www.lds.org/scriptures/bofm/moro
+dc-testament,Doctrine and Covenants,"The Doctrine and Covenants of The Church of Jesus Christ of Latter-day Saints Containing Revelations Given to Joseph Smith, the Prophet with Some Additions by His Successors in the Presidency of the Church",dc,Sections,https://www.lds.org/scriptures/dc-testament/dc
+dc-testament,Doctrine and Covenants,"The Doctrine and Covenants of The Church of Jesus Christ of Latter-day Saints Containing Revelations Given to Joseph Smith, the Prophet with Some Additions by His Successors in the Presidency of the Church",od,Official Declarations,https://www.lds.org/scriptures/dc-testament/od
+pgp,Pearl of Great Price,"The Pearl of Great Price A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",moses,Moses,https://www.lds.org/scriptures/pgp/moses
+pgp,Pearl of Great Price,"The Pearl of Great Price A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",abr,Abraham,https://www.lds.org/scriptures/pgp/abr
+pgp,Pearl of Great Price,"The Pearl of Great Price A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",js-m,Joseph Smith—Matthew,https://www.lds.org/scriptures/pgp/js-m
+pgp,Pearl of Great Price,"The Pearl of Great Price A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",js-h,Joseph Smith—History,https://www.lds.org/scriptures/pgp/js-h
+pgp,Pearl of Great Price,"The Pearl of Great Price A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",a-of-f,Articles of Faith,https://www.lds.org/scriptures/pgp/a-of-f
