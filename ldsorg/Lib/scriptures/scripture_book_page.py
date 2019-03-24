@@ -19,10 +19,9 @@ def get_content_from_url(url):
 
 # Define function to parse book title from <h1 ... id="title1">
 def parse_h1_id_title1(h1_id_title1):
-    # Find <span class="dominant"> in h1_id_title1
-    span_class_dominant = h1_id_title1.find('span', {'class':'dominant'})
-    # Get title from span_class_dominant
-    title = span_class_dominant.text
+    # Get title from h1_id_title1
+    title = h1_id_title1.text.strip()
+    title = ' '.join(title.split())
     # Return the title
     return title
 
@@ -59,8 +58,16 @@ def parse_all_text_from_page(page):
     parsed_text = {}
     # Find <h1 ... id="title1"> in page
     h1_id_title1 = page.find('h1', {'id':'title1'})
-    # Parse <h1 ... id="title1"> to get title
-    title = parse_h1_id_title1(h1_id_title1)
+    # Only parse <h1 ... id="title1"> if it was found
+    if(not(h1_id_title1 == None)):
+        # Get book title from <h1 ... id="title1">
+        title = parse_h1_id_title1(h1_id_title1)
+    # Otherwise, search directly for <span class="dominant">
+    else:
+        # Find <span class="dominant"> in page
+        span_class_dominant = page.find('span', {'class':'dominant'})
+        # Get title from <span class="dominant">
+        title = ' '.join(span_class_dominant.text.split())
     # Find <div id="primary"> in page
     div_id_primary = page.find('div', {'id': 'primary'})
     # Parse <div id="primary"> to get scripture book name and chapter numbers and urls
